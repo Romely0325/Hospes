@@ -6,6 +6,7 @@
 Hospes – Beltrian Mercenary는 언리얼 엔진 5(UE5)로 개발 중인 르네상스 판타지 세계관의 모험형 턴제 RPG입니다. 본 프로젝트는 20~30대 남녀를 주요 타겟으로 하며, PC 플랫폼을 대상으로 합니다. 현재 목표는 데모 버전 제작에 집중하고 있으며, 데모는 싱글 플레이만 지원합니다. 추후 멀티플레이 등 추가 콘텐츠는 데모의 완성도와 반응에 따라 검토할 예정입니다.
 
 <a href="Image/Hospes 스토리보드.pptx.pdf"><image src="Image/시작 화면.png" width="560px"/></a>
+  
 <a href="Image/Hospes 스토리보드.pptx.pdf">Link</a>
 
 ---
