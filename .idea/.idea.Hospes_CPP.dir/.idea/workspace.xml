@@ -8,27 +8,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="564a42f4-da81-4fb0-aa4b-cf6ecf56cc6c" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Hospes_CPP.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hospes_CPP.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownPlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Blueprints/BP_TopDownPlayerController.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/TopDown/Maps/TopDownMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDown/Maps/TopDownMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/8V/WT9D4P1HW728TNKNNUTVJP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/8V/WT9D4P1HW728TNKNNUTVJP.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/EX/ZQJC1LIKGOVYWSGC3JYU0C.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/EX/ZQJC1LIKGOVYWSGC3JYU0C.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/WT/9EB3EM9K49XRZB2CEEEXNN.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/WT/9EB3EM9K49XRZB2CEEEXNN.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/ZX/MYYSFSDBR7PWDQ75S9A2OI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/ZX/MYYSFSDBR7PWDQ75S9A2OI.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/Y0/GD0GJPMCBZ5SJCPR1YDS13.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/Y0/GD0GJPMCBZ5SJCPR1YDS13.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/28/GZQF5062RCI7BWHRQB2AIA.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/28/GZQF5062RCI7BWHRQB2AIA.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/6S/4Q0SO0BOPZQXLKEQBRRCNC.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/6S/4Q0SO0BOPZQXLKEQBRRCNC.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/EJ/3HNC1U0F2YQFT0K2HE4EML.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/EJ/3HNC1U0F2YQFT0K2HE4EML.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/YN/Y5JWBT0DDTUMEL2VQS6YF3.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/YN/Y5JWBT0DDTUMEL2VQS6YF3.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/O1/LKG0EWF1H8Q6BOE4TG4H3Z.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/O1/LKG0EWF1H8Q6BOE4TG4H3Z.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/6P/T62ZF6ISNQTC0XUQOVTVYF.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/6P/T62ZF6ISNQTC0XUQOVTVYF.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/0I/XVFOZ8VPGSJJF9B96MB2AT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/0I/XVFOZ8VPGSJJF9B96MB2AT.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/6I/XSM9YL2NXXWXF3TAX45Q91.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/6I/XSM9YL2NXXWXF3TAX45Q91.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/O6/UOQ7N8APQ5FUO3CNH5V0NP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/O6/UOQ7N8APQ5FUO3CNH5V0NP.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/Z8/YJJ3BY8T5KSMQDUX6IUJYI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/Z8/YJJ3BY8T5KSMQDUX6IUJYI.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/JZ/QMNXOFRE89QUJ2E81NRP3V.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/JZ/QMNXOFRE89QUJ2E81NRP3V.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/F/2O/LMQA3V8E3O266OD3S1DKE1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/F/2O/LMQA3V8E3O266OD3S1DKE1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UI/BluePrint/WBP_MyUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/BluePrint/WBP_MyUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UI/BluePrint/WBP_Overlay.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/BluePrint/WBP_Overlay.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UI/BluePrint/WBP_SkillWidget.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/BluePrint/WBP_SkillWidget.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UI/Image/SkillUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/Image/SkillUI.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hospes_CPP.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/Hospes_CPP.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Hospes_CPP/Public/UI/MyUserWidget.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Hospes_CPP/Public/UI/MyUserWidget.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,6 +210,8 @@
       <updated>1749823162728</updated>
       <workItem from="1749823171201" duration="1262000" />
       <workItem from="1749824477480" duration="1723000" />
+      <workItem from="1749829414312" duration="1112000" />
+      <workItem from="1749873935782" duration="4974000" />
     </task>
     <servers />
   </component>
